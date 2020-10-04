@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+I'm Paulo, a Python developer and cyber security enthusiast
+
+![Paulo's github stats](https://github-readme-stats.vercel.app/api?username=psdon&count_private=true&how_icons=true)
 
 <!--
 **psdon/psdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
