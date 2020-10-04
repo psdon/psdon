@@ -1,6 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm Paulo, a Senior Python developer and a cyber security enthusiast. 
 
+### Talking about personal stuffs:
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning `more` `more` penetration testing 😆
 - 💬 Ask me about Python and Hacking!
