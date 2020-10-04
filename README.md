@@ -5,7 +5,6 @@ I'm Paulo, a Senior Python developer and a cyber security enthusiast.
 - 🌱 I’m currently learning `more` `more` penetration testing 😆
 - 💬 Ask me about Python and Hacking!
 - 📫 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
-- 😄 Pronouns: 
 - ⚡ Fun fact: I started programming when I was 9 years old. I studied Assembly Language when I was 12 🤪
 
 
