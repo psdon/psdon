@@ -4,7 +4,7 @@ I'm Paulo, a Senior Python developer and a cyber security enthusiast. Living in 
 ### Talking about personal stuffs:
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning `more` and `more` penetration testing 😆
-- 💬 Ask me about Python and Hacking!
+- 💬 Ask me about Python, GraphQL, and Hacking!
 - 📫 You can find me on [![Twitter][1.2]][1], [![LinkedIn][2.2]][2], or [![Facebook][3.2]][3].
 - ⚡ Fun fact: I started programming when I was 9 years old. I've learned Assembly Language when I was 12 🤪
 
