@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Paulo, a Senior Python developer and an InfoSec Researcher. Living in <img src="https://www.flaticon.com/svg/static/icons/svg/303/303150.svg" width="13"/> <b>Manila, Philippines</b>.
+I'm Paulo, a Senior Python developer and InfoSec Researcher. Living in <img src="https://www.flaticon.com/svg/static/icons/svg/303/303150.svg" width="13"/> <b>Manila, Philippines</b>.
 
 ### Talking about personal stuffs:
 - 🔭 I’m currently working on something cool 😉
