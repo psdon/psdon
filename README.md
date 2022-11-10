@@ -1,10 +1,9 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Paulo, a Senior Python developer and InfoSec Researcher. Living in <img src="https://www.flaticon.com/svg/static/icons/svg/303/303150.svg" width="13"/> <b>Manila, Philippines</b>.
+I'm Paulo, a Senior Python developer living in <b>Manila, Philippines</b>.
 
 ### Talking about personal stuffs:
-- 🔭 I’m currently working on something cool 😉
-- 🌱 I’m currently learning `more` and `more` penetration testing 😆
-- 💬 Ask me about Python, GraphQL, and Hacking!
+- 🔭 Yes, I love Vim! 
+- 💬 Slow code hurts my eye. Ask me about Python, Architecture, and Hacking!
 - 📫 You can find me on [![Twitter][1.2]][1], [![LinkedIn][2.2]][2], or [![Facebook][3.2]][3].
 - ⚡ Fun fact: I started programming when I was 9 years old. I've learned Assembly Language when I was 12 🤪
 
