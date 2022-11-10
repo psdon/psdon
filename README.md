@@ -3,7 +3,7 @@ I'm Paulo, a Senior Python developer living in <b>Manila, Philippines</b>.
 
 ### Talking about personal stuffs:
 - 🔭 Yes, I love Vim! 
-- 💬 Slow code hurts my eye. Ask me about Python, Architecture, and Hacking!
+- 💬 Slow code hurt my eyes. Ask me about Python, Architecture, and Hacking!
 - 📫 You can find me on [![Twitter][1.2]][1], [![LinkedIn][2.2]][2], or [![Facebook][3.2]][3].
 - ⚡ Fun fact: I started programming when I was 9 years old. I've learned Assembly Language when I was 12 🤪
 
