@@ -9,7 +9,7 @@ I'm Paulo, a Senior Backend Engineer (Python) and an InfoSec researcher. I also 
 - Container: Docker, Vagrant
 - CI/CD: Github Actions, Circle CI, Travis CI
 - Cloud: AWS, DigitalOcean, Pythonanywhere, Heroku
-- Database: Postgres, MySQL, MongoDB, DynamoDB, Kafka, Redis
+- Database: Postgres, MySQL, MongoDB, Clickhouse, DynamoDB, Kafka, Redis
 
 ---
 Currently exploring the Rust ecosystem rabbit hole.
