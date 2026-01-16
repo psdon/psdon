@@ -11,4 +11,4 @@ I also love Vim, and efficient systems!
 - **Data**: PostgreSQL, MySQL, Athena, Clickhouse, MongoDB, DynamoDB, Kafka, Redis, RabbitMQ
 - **Tools**: Github Actions, CircleCI, Travis CI, Gitlab CI
 - **Practices**: Agile, CI/CD, Test-Driven Development, Micro-services, Hexagonal Architecture, Gitflow
-- **Security**: SOC Operations, Vulnerability Research, Penetration Testing, Secure Code Review
+- **Security**: Compliance, Vulnerability Research, Penetration Testing, Secure Code Review
