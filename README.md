@@ -1,14 +1,19 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Paulo, a Senior Backend Engineer (Python, Rust), a former InfoSec researcher, and now in Distributed Computing.
-I also love Vim, and efficient systems!
+# Hi, I’m Paulo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="30" />
+Senior Backend Engineer (Python, Rust) • ex-InfoSec researcher • Distributed systems
 
-### Tech Stack
-- **Languages**: Rust, Python, JavaScript, Assembly, Bash -- familiarity with PHP, Perl, C
+- I build backend services and data-heavy systems with a focus on performance and reliability.
+- I enjoy Vim, clean architectures, and efficient systems.
+- I explore systematic trading on the side (swing + position trading).
+
+## Tech
+- **Languages**: Rust, Python, JavaScript, Bash (familiar with: C, PHP, Perl, Assembly)
 - **Backend**: Axum, FastAPI, Django, Flask, Celery, Scrapy/Scrapyd
-- **Frontend**: AstroJS, VueJS, TailwindCSS, SASS -- familiarity with ReactJS
-- **Orchestration**: Docker, Vagrant, EC2 + Fargate, Cloudformation
-- **Systems**: Distributed Systems, Web Scraping, Linux (Ubuntu/Debian, Arch), OSX
-- **Data**: PostgreSQL, MySQL, Athena, Clickhouse, MongoDB, DynamoDB, Kafka, Redis, RabbitMQ
-- **Tools**: Github Actions, CircleCI, Travis CI, Gitlab CI
-- **Practices**: Agile, CI/CD, Test-Driven Development, Micro-services, Hexagonal Architecture, Gitflow
-- **Security**: Compliance, Vulnerability Research, Penetration Testing, Secure Code Review
+- **Frontend**: Astro, Vue, Tailwind CSS, Sass (familiar with: React)
+- **Infra**: Docker, Vagrant, AWS (EC2, Fargate), CloudFormation
+- **Data**: PostgreSQL, MySQL, Athena, ClickHouse, MongoDB, DynamoDB, Kafka, Redis, RabbitMQ
+- **CI**: GitHub Actions, CircleCI, Travis CI, GitLab CI
+- **Practices**: Agile, CI/CD, TDD, microservices, hexagonal architecture, Gitflow
+- **Security**: compliance, vulnerability research, penetration testing, secure code review
+
+## Highlights
+Check out my pinned repositories for recent work and experiments.
