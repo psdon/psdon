@@ -1,9 +1,13 @@
 # Hi, I’m Paulo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="30" />
-Principal Security Engineer • Backend Engineer (Python, Rust) • Distributed systems
 
-- I build secure backend services and data-heavy systems with a focus on performance and reliability.
-- I enjoy Vim, clean architectures, and efficient systems.
-- I explore systematic trading on the side (swing + position trading).
+Principal Security Engineer • Backend Engineer (Python, Rust) • Distributed Systems
+
+I build **secure, scalable backend systems** that power **real products** in high-risk, data-heavy environments.
+
+- I design and own production services with a strong focus on **security, performance, and reliability**.
+- I treat **security and compliance as product constraints**, not afterthoughts.
+- I care about **clean architectures, Vim, and systems that are easy to reason about and operate at scale**.
+- On the side, I explore **systematic trading**.
 
 ## Tech
 - **Languages**: Rust, Python, JavaScript, Bash (familiar with: C, PHP, Perl, Assembly)
