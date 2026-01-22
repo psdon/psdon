@@ -10,9 +10,9 @@ I build **secure, scalable backend systems** that power **real products** in hig
 - On the side, I explore **systematic trading**.
 
 ## Tech
-- **Languages**: Rust, Python, JavaScript, Bash (familiar with: C, PHP, Perl, Assembly)
+- **Languages**: Rust, Python, Typescript, Bash (familiar with: C, PHP, Perl, Assembly)
 - **Backend**: Axum, FastAPI, Django, Flask, Celery, Scrapy/Scrapyd
-- **Frontend**: Astro, Vue, Tailwind CSS, Sass (familiar with: React)
+- **Frontend**: Astro, Vue, React, Tailwind CSS
 - **Infra**: Docker, Vagrant, AWS (EC2, Fargate), CloudFormation
 - **Data**: PostgreSQL, MySQL, Athena, ClickHouse, MongoDB, DynamoDB, Kafka, Redis, RabbitMQ
 - **CI**: GitHub Actions, CircleCI, Travis CI, GitLab CI
