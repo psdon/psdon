@@ -7,7 +7,6 @@ I build **secure, scalable backend systems** that power **real products** in hig
 - I design and own production services with a strong focus on **security, performance, and reliability**.
 - I treat **security and compliance as product constraints**, not afterthoughts.
 - I care about **clean architectures, Vim, and systems that are easy to reason about and operate at scale**.
-- On the side, I explore **systematic trading**.
 
 ## Tech
 - **Languages**: Rust, Python, Typescript, Bash (familiar with: C, PHP, Perl, Assembly)
